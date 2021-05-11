@@ -1,0 +1,33 @@
+body {
+  background: #000000;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.video {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+.buton{
+
+  background-color: #e67e22;
+
+  border: none;
+
+  color: white;
+
+  padding: 15px 32px;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  display: inline-block;
+
+  font-size: 16px;
+
+  margin: 4px 2px;
+
+  cursor: pointer;
+}
