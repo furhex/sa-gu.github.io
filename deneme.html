@@ -1,0 +1,33 @@
+<html>
+<head>
+
+    <link rel="stylesheet" href="style.css">
+<script>
+function kopyala(elemanID){
+  var cop = document.createElement("div");
+  cop.setAttribute("contentEditable", true);
+  cop.innerHTML = document.getElementById(elemanID).innerHTML;
+  cop.setAttribute("onfocus", "document.execCommand('selectAll',false,null)"); 
+  document.body.appendChild(cop);
+  cop.focus();
+  document.execCommand("copy");
+  document.body.removeChild(cop);
+}
+</script>
+
+</head>
+<body>
+
+<img src="dnemek.gif" width="" height="" border="" alt="" />
+
+<p id="kaynak">Burdaki gifin bağlantısı olucak</p>
+<button onclick="kopyala('kaynak')" id="">Bağlantısını kopyala</button> 
+ 
+<div id="denemeAlani" contentEditable="true"></div>
+
+</body>
+
+
+
+
+</html>
