@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCcWBi34RCMZaXUViSSa9StQ"/>
+ <id>yt:channel:UCcWBi34RCMZaXUViSSa9StQ</id>
+ <yt:channelId>UCcWBi34RCMZaXUViSSa9StQ</yt:channelId>
+ <title>sa as</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCcWBi34RCMZaXUViSSa9StQ"/>
+ <author>
+  <name>sa as</name>
+  <uri>https://www.youtube.com/channel/UCcWBi34RCMZaXUViSSa9StQ</uri>
+ </author>
+ <published>2021-06-07T20:14:10+00:00</published>
+ <entry>
+  <id>yt:video:w6a2pFNeZrc</id>
+  <yt:videoId>w6a2pFNeZrc</yt:videoId>
+  <yt:channelId>UCcWBi34RCMZaXUViSSa9StQ</yt:channelId>
+  <title>rss deneme deneme</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=w6a2pFNeZrc"/>
+  <author>
+   <name>sa as</name>
+   <uri>https://www.youtube.com/channel/UCcWBi34RCMZaXUViSSa9StQ</uri>
+  </author>
+  <published>2021-06-07T22:40:15+00:00</published>
+  <updated>2021-06-08T00:18:02+00:00</updated>
+  <media:group>
+   <media:title>rss deneme deneme</media:title>
+   <media:content url="https://www.youtube.com/v/w6a2pFNeZrc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/w6a2pFNeZrc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RouWNftRf28</id>
+  <yt:videoId>RouWNftRf28</yt:videoId>
+  <yt:channelId>UCcWBi34RCMZaXUViSSa9StQ</yt:channelId>
+  <title>rss deneme için</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RouWNftRf28"/>
+  <author>
+   <name>sa as</name>
+   <uri>https://www.youtube.com/channel/UCcWBi34RCMZaXUViSSa9StQ</uri>
+  </author>
+  <published>2021-06-07T20:27:37+00:00</published>
+  <updated>2021-06-08T08:29:59+00:00</updated>
+  <media:group>
+   <media:title>rss deneme için</media:title>
+   <media:content url="https://www.youtube.com/v/RouWNftRf28?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RouWNftRf28/hqdefault.jpg" width="480" height="360"/>
+   <media:description>dkdkdkdkdd</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XncFPtjfuPE</id>
+  <yt:videoId>XncFPtjfuPE</yt:videoId>
+  <yt:channelId>UCcWBi34RCMZaXUViSSa9StQ</yt:channelId>
+  <title>dsddkddkddkddksskekddmddmsd ddjddjddjddkksdjdddnd rss deneeem</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XncFPtjfuPE"/>
+  <author>
+   <name>sa as</name>
+   <uri>https://www.youtube.com/channel/UCcWBi34RCMZaXUViSSa9StQ</uri>
+  </author>
+  <published>2021-06-07T20:21:11+00:00</published>
+  <updated>2021-06-08T08:17:09+00:00</updated>
+  <media:group>
+   <media:title>dsddkddkddkddksskekddmddmsd ddjddjddjddkksdjdddnd rss deneeem</media:title>
+   <media:content url="https://www.youtube.com/v/XncFPtjfuPE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XncFPtjfuPE/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:PbRTlpjdOKE</id>
+  <yt:videoId>PbRTlpjdOKE</yt:videoId>
+  <yt:channelId>UCcWBi34RCMZaXUViSSa9StQ</yt:channelId>
+  <title>rsssss denenenenen</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=PbRTlpjdOKE"/>
+  <author>
+   <name>sa as</name>
+   <uri>https://www.youtube.com/channel/UCcWBi34RCMZaXUViSSa9StQ</uri>
+  </author>
+  <published>2021-06-07T20:18:50+00:00</published>
+  <updated>2021-06-07T20:23:49+00:00</updated>
+  <media:group>
+   <media:title>rsssss denenenenen</media:title>
+   <media:content url="https://www.youtube.com/v/PbRTlpjdOKE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PbRTlpjdOKE/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-YPKf6MN3Xg</id>
+  <yt:videoId>-YPKf6MN3Xg</yt:videoId>
+  <yt:channelId>UCcWBi34RCMZaXUViSSa9StQ</yt:channelId>
+  <title>rss youtube bildirim deneme</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-YPKf6MN3Xg"/>
+  <author>
+   <name>sa as</name>
+   <uri>https://www.youtube.com/channel/UCcWBi34RCMZaXUViSSa9StQ</uri>
+  </author>
+  <published>2021-06-07T20:14:34+00:00</published>
+  <updated>2021-06-08T08:32:01+00:00</updated>
+  <media:group>
+   <media:title>rss youtube bildirim deneme</media:title>
+   <media:content url="https://www.youtube.com/v/-YPKf6MN3Xg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-YPKf6MN3Xg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
